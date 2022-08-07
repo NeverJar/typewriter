@@ -11,7 +11,4 @@ text = "Hello, world!"
 typewriter.write(text, 0.5)
 ```
 
-More coming soon!
-https://github.com/NeverJar/typewriter
-
 Support me: https://www.paypal.com/nebeldev948
