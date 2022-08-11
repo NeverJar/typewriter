@@ -3,7 +3,7 @@
 To use the Typewriter Effect for Python, you need to enter a function!
 
 ```py
-import typewriter
+import ez-typewriter
 
 time = 0.2
 text = "Hello, world!"
